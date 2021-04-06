@@ -9,4 +9,4 @@ Supplementary materials for the manuscript: Re-examining the effects of time-rel
 
 [a link to the data-with dependent variable Meta-TE(after diagnostic)](https://oliverwei0304.github.io/Xiao-Wei-repository-for-data-supplementary-materials/meta%20analysis%20data%201%20TE%20diag.xls)
 
-[a link to the supplementary materials](https://www.google.com)
+[a link to the supplementary materials](https://oliverwei0304.github.io/Xiao-Wei-repository-for-data-supplementary-materials/Supplementary%20material-proofread-JTEP.docx)
